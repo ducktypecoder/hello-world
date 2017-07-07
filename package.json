@@ -4,9 +4,10 @@
   "description": "ducktypecoder intro project",
   "main": "index.js",
   "scripts": {
-    "test": "test",
+    "test": "jest",
     "dtc": "node ./node_modules/ducktypecoder/index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {}
 }
