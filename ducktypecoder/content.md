@@ -1,11 +1,14 @@
-## Step 3: Add Numbers
 
-Next, add a function that adds 2 numbers, in '/src/add-numbers':
+Code in this branch should make the tests pass for step 3.
+
+When you are ready to add another step, run the command:
 
 ```
-module.exports = function addNumbers(num1, num2) { return num1 + num2; };
+$ ducktypecoder add step
 ```
 
-Run ducktypecoder:
+Or, if you are all done and want to add the conclusion, run the command:
 
-`$ ducktypecoder next`
+````
+$ ducktypecoder add conclusion
+````
