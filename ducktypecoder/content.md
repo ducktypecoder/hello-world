@@ -1,8 +1,13 @@
+## Step 4: Improved addNumbers
 
-This is content for step 4.
+Improve that last function so that it converts strings into numbers:
 
-When you are ready to add code that answers this step, run the command:
+In '/src/add-numbers':
 
 ```
-$ ducktypecoder add answer
+module.exports = function addNumbers(num1, num2) { return Number(num1) + Number(num2); };
 ```
+
+Should work, test it with ducktypecoder:
+
+`$ ducktypecoder next`
