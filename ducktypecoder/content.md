@@ -1,8 +1,13 @@
+## Step 2: Say My Name
 
-This is content for step 2.
+Great! Let's make another function. This new function will accept an argument.
 
-When you are ready to add code that answers this step, run the command:
+Make a file in '/src' named 'say-my-name.js' and in that file export a function that returns your name:
 
 ```
-$ ducktypecoder add answer
+module.exports = function sayMyName(name) { return name; };
 ```
+
+Again, check with ducktypecoder:
+
+```$ ducktypecoder next```

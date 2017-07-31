@@ -1,4 +1,6 @@
+var sayMyName = require('./src/say-my-name');
 
-it('fails at first', () => {
-  expect(true).toEqual(false);
+it('says my name', () => {
+  const name = 'bob';
+  expect(sayMyName(name)).toEqual(name);
 });
