@@ -1,9 +1,8 @@
-Welcome to your first ducktypecoder project!  
 
-Follow along and learn how ducktypecoder helps you proceed step-by-step through this project, giving you feedback whenever something breaks and unlocking new steps as you go.
+This is content for step 1.
 
-See the first step by running the command:
+When you are ready to add code that answers this step, run the command:
 
 ```
-$ ducktypecoder next
+$ ducktypecoder add answer
 ```

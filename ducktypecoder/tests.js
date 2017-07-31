@@ -1,4 +1,4 @@
 
-it('works', () => {
-  expect(true).toEqual(true);
+it('fails at first', () => {
+  expect(true).toEqual(false);
 });
