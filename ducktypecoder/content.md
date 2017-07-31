@@ -1,13 +1,14 @@
-## Step 2: Say My Name
 
-Great! Let's make another function. This new function will accept an argument.
+Code in this branch should make the tests pass for step 2.
 
-Make a file in '/src' named 'say-my-name.js' and in that file export a function that returns your name:
+When you are ready to add another step, run the command:
 
 ```
-module.exports = function sayMyName(name) { return name; };
+$ ducktypecoder add step
 ```
 
-Again, check with ducktypecoder:
+Or, if you are all done and want to add the conclusion, run the command:
 
-```$ ducktypecoder next```
+````
+$ ducktypecoder add conclusion
+````
