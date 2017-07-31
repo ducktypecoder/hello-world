@@ -1,8 +1,11 @@
+## Step 3: Add Numbers
 
-This is content for step 3.
-
-When you are ready to add code that answers this step, run the command:
+Next, add a function that adds 2 numbers, in '/src/add-numbers':
 
 ```
-$ ducktypecoder add answer
+module.exports = function addNumbers(num1, num2) { return num1 + num2; };
 ```
+
+Run ducktypecoder:
+
+`$ ducktypecoder next`

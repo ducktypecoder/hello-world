@@ -1,4 +1,7 @@
+var addNumbers = require('./src/add-numbers');
 
-it('fails at first', () => {
-  expect(true).toEqual(false);
+it('adds numbers', () => {
+  const num1 = 3;
+  const num2 = 4;
+  expect(addNumbers(num1, num2)).toEqual(7);
 });
