@@ -1,4 +1,5 @@
+var sayHello = require('./src/say-hello');
 
-it('fails at first', () => {
-  expect(true).toEqual(false);
+it('says hello world', () => {
+  expect(sayHello()).toEqual('Hello world');
 });
