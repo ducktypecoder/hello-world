@@ -1,14 +1,7 @@
+## You\'re done!
 
-Code in this branch should make the tests pass for step 4.
+Now you know how ducktypecoder works.
 
-When you are ready to add another step, run the command:
+We'll be adding more useful tutorials. Each tutorial will walk you through real world projects with real tests to check your progress.
 
-```
-$ ducktypecoder add step
-```
-
-Or, if you are all done and want to add the conclusion, run the command:
-
-````
-$ ducktypecoder add conclusion
-````
+Thanks for trying ducktypecoder!
