@@ -1,13 +1,14 @@
-## Step 4: Improved addNumbers
 
-Improve that last function so that it converts strings into numbers:
+Code in this branch should make the tests pass for step 4.
 
-In '/src/add-numbers':
+When you are ready to add another step, run the command:
 
 ```
-module.exports = function addNumbers(num1, num2) { return Number(num1) + Number(num2); };
+$ ducktypecoder add step
 ```
 
-Should work, test it with ducktypecoder:
+Or, if you are all done and want to add the conclusion, run the command:
 
-`$ ducktypecoder next`
+````
+$ ducktypecoder add conclusion
+````
