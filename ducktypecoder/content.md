@@ -1,14 +1,8 @@
 
-Code in this branch should make the tests pass for step 2.
+This is content for step 3.
 
-When you are ready to add another step, run the command:
+When you are ready to add code that answers this step, run the command:
 
 ```
-$ ducktypecoder add step
+$ ducktypecoder add answer
 ```
-
-Or, if you are all done and want to add the conclusion, run the command:
-
-````
-$ ducktypecoder add conclusion
-````
