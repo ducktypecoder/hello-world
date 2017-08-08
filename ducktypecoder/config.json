@@ -1,1 +1,6 @@
-{"author":{"email":"asdf","name":"asdf","twitter":"asdf"}}
+{
+  "step": "0",
+  "projectName": "Hello World",
+  "development": true,
+  "author": { "email": "asdf", "name": "asdf", "twitter": "asdf" }
+}
