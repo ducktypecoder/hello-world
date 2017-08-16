@@ -1,1 +1,10 @@
-{"step":"conclusion","projectName":"Hello World","development":true,"author":{"email":"mhurwitzus@gmail.com","name":"Mark Hurwitz","twitter":"mhurwi","website":"www.ducktypecoder.com"}}
+{
+  "step": "conclusion",
+  "projectName": "Hello World",
+  "author": {
+    "email": "mhurwitzus@gmail.com",
+    "name": "Mark Hurwitz",
+    "twitter": "mhurwi",
+    "website": "www.ducktypecoder.com"
+  }
+}

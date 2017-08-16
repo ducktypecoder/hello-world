@@ -1,10 +1,9 @@
+Welcome to ducktypecoder!
 
-Welcome to your new ducktypecoder project!
+This 'Hello World' project demonstrates how you can proceed through a simple project, step by step.
 
-This is your project's introduction. Provide a description of your project and what people will learn.
-
-When you are ready to add your first step, run the command:
+When you are ready for the first step, run the command:
 
 ```
-$ ducktypecoder add step
+$ ducktypecoder next
 ```
